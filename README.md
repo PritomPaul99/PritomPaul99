@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m @PritomPaul99</h1>
-- 👀 I’m interested in programming and software development.
-- 🌱 I’m currently learning C++, Java and Python.
+- 👀 I’m interested in programming and software development.<br>
+- 🌱 I’m currently learning C++, Java and Python.<br>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : E-mail: pritomopaul1920@gmail.com
 
