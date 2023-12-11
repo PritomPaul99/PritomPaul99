@@ -8,7 +8,7 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<div style="text-align: center;">
+<div align= "center">
 <a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="" height="" src="image link" style="margin:0px 10px 5px 0px" alt="Alternative text"/>
 <!-- Margin: all-four-side
          Margin: top-bottom left-right
