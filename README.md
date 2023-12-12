@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to my GitHub Profile!<img width="30" height="" src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" style="margin:0px 10px 5px 0px" alt="Hi"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=0E7ACFF5&center=true&vCenter=true&multiline=true&random=false&width=710&height=250&lines=Hello%2C+I+am+Pritom+Paul.;Computer+Science+%26+Engineering+Student.;Competitive+Programmer.;Problem+Solver.;Machine+Learning+Enthusiast.;Web+Developer." style="display: block; margin-left: auto; margin-right: auto;" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=0E7ACFF5&center=true&vCenter=true&multiline=true&random=false&width=710&height=250&lines=Hello%2C+I+am+Pritom+Paul.;Computer+Science+%26+Engineering+Student.;Competitive+Programmer.;Problem+Solver.;Machine+Learning+Enthusiast.;Web+Developer." alt="Typing SVG" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pritompaul99&label=Profile%20views&color=0e75b6&style=flat" alt="pritompaul99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritompaul99" alt="pritompaul99" /></a> </p>
-
 
 <h3 align="center">Connect with me:</h3>
 
@@ -15,7 +14,7 @@
 
 <a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/facebook.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a><!-- 🚫 --><a href="https://www.linkedin.com/in/pritom-paul-92baa81aa/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/linkedin.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a><!-- 🚫 --><a href="https://discord.com/users/758427667845873694" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/discord.png?raw=true" style="margin:0px 10px 5px 0px" alt="Discord"/></a><!-- 🚫 --><a href="https://instagram.com/pritom__paul__" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/instagram.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a><!-- 🚫 --><a href="https://x.com/PritomP29098169" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/twitter-x-logo-42554.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a><!-- 🚫 --><a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/youtube.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>
 
-<a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="400" height="160" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/portfolio_link.gif?raw=true" style="margin:0px 10px 5px 0px; border-radius:10px" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="400" height="160" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/portfolio_link.gif?raw=true" style="margin:0px 10px 5px 0px;" alt="Instagram"/></a>
 
 </div>
 
