@@ -8,12 +8,11 @@
 
 
 <h3 align="center">Connect with me:</h3>
+
 <div align= "center">
-<a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="" height="" src="image link" style="margin:0px 10px 5px 0px" alt="Alternative text"/>
-<!-- Margin: all-four-side
-         Margin: top-bottom left-right
-         Margin: top left-right bottom
-         Margin: top right bottom left --></a>
+
+<a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/facebook.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a><!-- 🚫 --><a href="https://www.linkedin.com/in/pritom-paul-92baa81aa/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/linkedin.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a><!-- 🚫 --><a href="https://discord.com/users/758427667845873694" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/discord.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a><!-- 🚫 --><a href="https://discord.com/users/758427667845873694" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/discord.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a>
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
