@@ -21,7 +21,7 @@
 <a href="https://x.com/PritomP29098169" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/twitter-x-logo-42554.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>&#8287;
 <a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/youtube.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>
 
-<a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="" height="" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/visit-my-portfolio.gif?raw=true" style="margin:0px 10px 5px 0px;" alt="Instagram"/></a>
+<a href="https://pritompaul.vercel.app/" alt="alernative text" target="_blank"><img width="" height="" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/visit-my-portfolio.gif?raw=true" style="margin:0px 10px 5px 0px;" alt="Instagram"/></a>
 
 </div>
 
