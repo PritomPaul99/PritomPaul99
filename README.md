@@ -28,6 +28,6 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages&Tools/Languages/icons8-c-programming-240.png?raw=true" style="margin:0px 10px 5px 0px" alt="C"/> &nbsp; <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages%26Tools/Languages/c%2B%2B.png?raw=true" style="margin:0px 10px 5px 0px" alt="cpp"/> </p>
+<p align="center"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages&Tools/Languages/icons8-c-programming.png?raw=true" style="margin:0px 10px 5px 0px" alt="C"/> <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages%26Tools/Languages/c%2B%2B.png?raw=true" style="margin:0px 10px 5px 0px" alt="cpp"/> <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages%26Tools/Languages/python.png?raw=true" style="margin:0px 10px 5px 0px" alt="cpp"/> </p>
 
 <p align="center" ><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritompaul99&show_icons=true&locale=en&layout=compact" alt="pritompaul99" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pritompaul99&show_icons=true&locale=en" alt="pritompaul99" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritompaul99&" alt="pritompaul99" /></p>
