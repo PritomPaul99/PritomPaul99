@@ -12,26 +12,22 @@
 
 <div align= "center">
 
-<a href="tomail:pritompaul1920.4@gmail.com" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/gmail.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
-<a href="https://t.me/pritompaul1920" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/telegram.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
-<a href="https://api.whatsapp.com/send?phone=8801718382009" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/whatsapp.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>
+<a href="tomail:pritompaul1920.4@gmail.com" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/gmail.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
+<a href="https://t.me/pritompaul1920" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/telegram.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
+<a href="https://api.whatsapp.com/send?phone=8801718382009" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/whatsapp.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>
 
-<a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/facebook.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
-<a href="https://www.linkedin.com/in/pritom-paul-92baa81aa/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/linkedin.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a>&#8287;
-<a href="https://discord.com/users/758427667845873694" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/discord.png?raw=true" style="margin:0px 10px 5px 0px" alt="Discord"/></a>&#8287;
-<a href="https://instagram.com/pritom__paul__" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/instagram.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>&#8287;
-<a href="https://x.com/PritomP29098169" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/twitter-x-logo-42554.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>&#8287;
-<a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/youtube.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>
+<a href="https://www.facebook.com/pritompaul.pappu/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/facebook.png?raw=true" style="margin:0px 10px 5px 0px" alt="FB"/></a>&#8287;
+<a href="https://www.linkedin.com/in/pritom-paul-92baa81aa/" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/linkedin.png?raw=true" style="margin:0px 10px 5px 0px" alt="LinkedIn"/></a>&#8287;
+<a href="https://discord.com/users/758427667845873694" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/discord.png?raw=true" style="margin:0px 10px 5px 0px" alt="Discord"/></a>&#8287;
+<a href="https://instagram.com/pritom__paul__" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/instagram.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>&#8287;
+<a href="https://x.com/PritomP29098169" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/twitter-x-logo-42554.png?raw=true" style="margin:0px 10px 5px 0px" alt="Instagram"/></a>&#8287;
+<a href="https://www.youtube.com/@codingwithpritom" alt="alernative text" target="_blank"><img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/youtube.png?raw=true" style="margin:0px 10px 5px 0px" alt="YouTube"/></a>
 
-<a href="https://pritompaul.vercel.app/" alt="alernative text" target="_blank"><img width="" height="" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logo/Social/visit-my-portfolio.gif?raw=true" style="margin:0px 10px 5px 0px;" alt="Instagram"/></a>
+<a href="https://pritompaul.vercel.app/" alt="alernative text" target="_blank"><img width="" height="" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Social/visit-my-portfolio.gif?raw=true" style="margin:0px 10px 5px 0px;" alt="Portfolio"/></a>
 
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img width="" height="" src="image link" style="margin:0px 10px 5px 0px" alt="Alternative text"/>
-<!-- Margin: all-four-side
-         Margin: top-bottom left-right
-         Margin: top left-right bottom
-         Margin: top right bottom left --> </p>
+<p align="center"> <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages&Tools/Languages/icons8-c-programming-240.png?raw=true" style="margin:0px 10px 5px 0px" alt="C"/> &nbsp; <img width="40" height="40" src="https://github.com/PritomPaul99/PritomPaul99/blob/main/Logos/Languages%26Tools/Languages/c%2B%2B.png?raw=true" style="margin:0px 10px 5px 0px" alt="cpp"/> </p>
 
 <p align="center" ><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritompaul99&show_icons=true&locale=en&layout=compact" alt="pritompaul99" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pritompaul99&show_icons=true&locale=en" alt="pritompaul99" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritompaul99&" alt="pritompaul99" /></p>
