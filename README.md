@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile!<img width="30" height="" src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" style="margin:0px 10px 5px 0px" alt="Hi"/></h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=0E7ACFF5&center=true&vCenter=true&multiline=true&random=false&width=710&height=250&lines=Hello%2C+I+am+Pritom+Paul.;Computer+Science+%26+Engineering+Student.;Competitive+Programmer.;Problem+Solver.;Machine+Learning+Enthusiast.;Web+Developer." alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Serif&weight=700&size=40&duration=700&pause=200&color=18A0F7&center=true&multiline=true&random=false&width=910&height=300&lines=Hello%2C+I+am+Pritom+Paul.;Computer+Science+%26+Engineering+Student.;Competitive+Programmer.;Problem+Solver.;Machine+Learning+Enthusiast.;Web+Developer." alt="Typing SVG" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pritompaul99&label=Profile%20views&color=0e75b6&style=flat" alt="pritompaul99" /> </p>
 
